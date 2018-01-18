@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Azure App Service - Update#1 </title>
+  <title>Azure App Service - Update#2 </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="<?php echo base_url();?>/css/bootstrap.min.css">
@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">         
-          <a class="navbar-brand" href="#">Azure App Service</a>		 
+          <a class="navbar-brand" href="#">Azure App Service - Update#3</a>		 
         </div>            
       </div>
     </nav> 
